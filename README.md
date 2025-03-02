@@ -1,1 +1,1 @@
-# tracert
+# tracert or traceroute
